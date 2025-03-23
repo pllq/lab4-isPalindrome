@@ -1,4 +1,4 @@
-const { expect } = require('chai');
+const { expect } = require('chai/lib/chai.js');
 const { reverseString, isPalindrome } = require('../stringModule');
 
 describe('String Module Tests', () => {
