@@ -1,5 +1,5 @@
-const { expect } = require('chai');
-const { reverseString, isPalindrome } = require('../stringModule');
+import { expect } from 'chai';
+import { reverseString, isPalindrome } from '../stringModule.js';
 
 describe('String Module Tests', () => {
     describe('reverseString', () => {

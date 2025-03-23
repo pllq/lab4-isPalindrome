@@ -1,14 +1,14 @@
 {
   "name": "lab4-unit",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "stringModule.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A simple project to test string operations using Mocha and Chai.",
   "devDependencies": {
     "chai": "^5.2.0",
     "mocha": "^11.1.0"
